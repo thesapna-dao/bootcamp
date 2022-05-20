@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>849b63a9-d663-4e35-9140-29814e010eee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>7b73d006-3393-4a2f-8740-b0f4553e95a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M18.293 9.84375H13.8633C12.3706 9.84375 11.1562 8.6294 11.1562 7.13672V2.70703C11.1562 1.21435 12.3706 0 13.8633 0H18.293C19.7857 0 21 1.21435 21 2.70703V7.13672C21 8.6294 19.7857 9.84375 18.293 9.84375ZM13.8633 1.3125C13.0943 1.3125 12.4688 1.93807 12.4688 2.70703V7.13672C12.4688 7.90568 13.0943 8.53125 13.8633 8.53125H18.293C19.0619 8.53125 19.6875 7.90568 19.6875 7.13672V2.70703C19.6875 1.93807 19.0619 1.3125 18.293 1.3125H13.8633Z</value>
+      <webElementGuid>17e9f884-bb57-4f6f-89ee-7aa3192e43e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#575455</value>
+      <webElementGuid>889b3dbd-7f18-45c6-ae38-ce470adcebfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-item-1&quot;)/span[@class=&quot;sc-rq82e3-0 mzbNL&quot;]/svg[1]/g[1]/path[2]</value>
+      <webElementGuid>b1d78b3c-afbc-4072-86d3-06f2db1c1da4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
